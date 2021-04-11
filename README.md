@@ -22,11 +22,11 @@ Execute command to run test ```mvn clean test```
 
 ### Generate Allure report 
 
-```gradle allure:report```
+```mvn allure:report```
 
 ### Open Allure report in browser
 
-```gradle allure:serve```
+```mvn allure:serve```
 
 **List of technologies**: Java 8, Gradle, Selenide, TestNG, PageObject.
 
